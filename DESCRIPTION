@@ -1,0 +1,10 @@
+Package: ModifyMaxLkAndPairwise
+Type: Package
+Title: Rescaling composite likelihood estimators (max_lk function of LDhelmet and pariwise function of LDhat)
+Version: 0.1
+Date: 2016-01-26
+Author: Kerstin Gärtner, Andreas Futschik
+Maintainer: Kerstin Gaertner <Kerstin.Gaertner@vetmeduni.ac.at>
+Description: The output of the max_lk function of LDhelmet and the pairwise function of LDhat is improved in terms of the mean squared error by rescaling it with a certain constant.
+#License: WHAT LICENCE IS IT UNDER?
+#LazyData: TRUE
